@@ -1,4 +1,4 @@
 # odin-recipes
 HTML Foundations Project
 
-This project demonstrates the use of HTMl to structure a web-page.
+This project demonstrates the use of HTML to structure a web-page.
